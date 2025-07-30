@@ -1,3 +1,17 @@
+import "android.graphics.drawable.GradientDrawable"
+import "android.graphics.Color"
+import "android.text.InputType"
+import "android.text.SpannableString"
+import "android.text.style.UnderlineSpan"
+import "android.graphics.Typeface"
+
+import "android.graphics.drawable.GradientDrawable"
+import "android.graphics.Color"
+import "android.text.InputType"
+import "android.text.SpannableString"
+import "android.text.style.UnderlineSpan"
+import "android.view.View"
+
 local import = import
 local Context = import "android.content.Context"
 local AlertDialogBuilder = import "android.app.AlertDialog$Builder"
