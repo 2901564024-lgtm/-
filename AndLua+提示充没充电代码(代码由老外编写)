@@ -1,4 +1,5 @@
 
+
 local btnCopy = dialog.getButton(dialog.BUTTON_POSITIVE)
 btnCopy.setText("Copy Info")
 btnCopy.setOnClickListener(function()
